@@ -1,0 +1,19 @@
+	 Welcome webcode Reatil
+
+ Bill Number : 8062
+ Customer Name : adotiit
+ Phone Nmuber : ,mnlcklcf
+=====================================
+ Products 		QTY		Price
+=====================================
+Bath Soap 		1		40
+Rice 		1		80
+Maza 		1		60
+-------------------------------------
+ Cosmetic Tax 			Rs. 2.0
+ Grocery Tax 			Rs. 8.0
+ Cold drinks Tax 			Rs. 3.0
+ Total Bill 			Rs. 193.0
+-------------------------------------
+ Total bill : 			 Rs. 193.0
+---------------------------------------------

@@ -1,0 +1,19 @@
+	 Welcome webcode Reatil
+
+ Bill Number : 6282
+ Customer Name : bony
+ Phone Nmuber : 784569321
+=====================================
+ Products 		QTY		Price
+=====================================
+Bath Soap 		1		40
+Rice 		1		80
+Maza 		1		60
+-------------------------------------
+ Cosmetic Tax 			Rs. 2.0
+ Grocery Tax 			Rs. 8.0
+ Cold drinks Tax 			Rs. 3.0
+ Total Bill 			Rs. 193.0
+-------------------------------------
+ Total bill : 			 Rs. 193.0
+---------------------------------------------
