@@ -1,3 +1,7 @@
 '''
-What relationship is appropriate for Student and Person?
+What relationship is appropriate for Student and Person?
+'''
+'''
+inheritance
+
 '''
