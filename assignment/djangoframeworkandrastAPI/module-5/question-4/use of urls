@@ -1,0 +1,3 @@
+What is Django URLs?make program to create django urls 
+
+URLs are managed using the URL dispatcher, which maps URL patterns to views. This mapping allows Django to determine which view should handle a given URL request. The URL configuration is typically defined in a module named urls.py

@@ -1,0 +1,8 @@
+Mention what command line can be used to load data into Django? 
+To load data into Django you have to use the command line Django-admin.py loaddata
+
+qqqqqqq
+Explain what does django-admin.py make messages command is used
+for? 
+
+Runs over the entire source tree of the current directory and pulls out all strings marked for translation. It creates (or updates) a message file in the conf/locale (in the django tree) or locale (for project and application) directory

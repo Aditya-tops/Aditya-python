@@ -1,0 +1,4 @@
+What is a QuerySet?Write program to create a new Post object in
+database: 
+
+A QuerySet in Django is a collection of database queries to retrieve, filter, and manipulate data. QuerySets allow you to filter and retrieve specific data from the database efficiently. They can be used to perform CRUD (Create, Read, Update, Delete) operations on your database models.
